@@ -1,0 +1,133 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.top-line-nav {
+    text-decoration: none;
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02cm;
+    color: #2E2F42;
+}
+
+.top-line-nav:hover {
+    color: #404BBF;
+}
+
+.top-line-nav:active {
+    color: #404BBF;
+}
+
+.contacts {
+    text-decoration: none;
+    font-family:'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02cm;
+    color: #434455;
+    font-style: normal;
+}
+
+.contacts:hover {
+    color: #404BBF;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #4D5AE5;
+}
+
+.span-logo {
+    color: #2E2F42;
+}
+
+.main-section {
+    background-color: #2E2F42;
+}
+
+h1 {
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 0.02cm;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+button {
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.04cm;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+
+button:hover {
+    color: #404BBF;
+}
+
+h2 {
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02cm;
+    color: #2E2F42;   
+    text-align: center;
+}
+
+p {
+    font-family:'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02cm;
+    color: #434455;
+}
+
+.section-team {
+    background-color: #F4F4FD
+}
+
+h3 {
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02cm;
+    color: #2E2F42;
+}
+
+footer {
+    background-color: #2E2F42;
+}
+
+.span-logo-last {
+    color: #F4F4FD;
+}
+
+.footer-text {
+    font-family:'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02cm;
+    color: #F4F4FD;
+}

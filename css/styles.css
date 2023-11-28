@@ -45,7 +45,7 @@ ul {
     color: #404BBF;
 }
 
-.contacts:active {
+.contacts:focus {
     color: #404bbf;
 }
 
@@ -68,51 +68,71 @@ ul {
     background-color: #2E2F42;
 }
 
-h1 {
+.main-section-name {
     font-family:'Roboto', sans-serif;
     font-weight: 700;
     font-size: 56px;
     line-height: 60px;
-    letter-spacing: 0.02cm;
+    line-height: 1.07
+    letter-spacing: 0.02em;
     text-align: center;
     color: #FFFFFF;
 }
 
-button {
+.main-section-but {
     font-family:'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.04cm;
+    letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #4D5AE5;
 }
 
-button:hover {
+.main-section-but:hover {
     color: #404BBF;
 }
 
-h2 {
+.main-section-but:focus {
+    color: #404BBF;
+}
+
+.main-section-but{
+    cursor: pointer;
+}
+
+.capabilities-title {
     font-family:'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 40px;
-    letter-spacing: 0.02cm;
-    color: #2E2F42;   
-    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42; 
 }
 
-p {
+.capabilities-title-par {
     font-family:'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02cm;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
 .section-team {
     background-color: #F4F4FD
+}
+
+.section-team-title {
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    line-height: 1.11
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2E2F42;
 }
 
 h3 {
@@ -121,6 +141,7 @@ h3 {
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0.02cm;
+
     color: #2E2F42;
 }
 

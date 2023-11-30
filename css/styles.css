@@ -8,9 +8,12 @@ ul {
     list-style-type: none;
 }
 
+
+
+
+
 .top-line-nav {
     text-decoration: none;
-    font-family:'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -31,13 +34,11 @@ ul {
 }
 
 .contacts {
-    font-family:'Roboto', sans-serif;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #434455;
     text-decoration: none;
+    color:  #434455;
 }
 
 .contacts:hover {
@@ -49,7 +50,6 @@ ul {
 }
 
 .logo {
-    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -68,7 +68,6 @@ ul {
 }
 
 .main-section-name {
-    font-family:'Roboto', sans-serif;
     font-weight: 700;
     font-size: 56px;
     line-height: 60px;
@@ -79,7 +78,7 @@ ul {
 }
 
 .main-section-but {
-    font-family:'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -101,7 +100,6 @@ ul {
 }
 
 .capabilities-title {
-    font-family:'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 40px;
@@ -110,7 +108,6 @@ ul {
 }
 
 .capabilities-title-name {
-    font-family:'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
@@ -122,16 +119,10 @@ ul {
 
 
 .capabilities-title-par {
-    font-family:'Roboto', sans-serif;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #434455;
 }
-
-
-
 
 
 .section-team {
@@ -139,7 +130,6 @@ ul {
 }
 
 .section-team-title {
-    font-family:'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 40px;
@@ -155,7 +145,6 @@ ul {
 }
 
 .section-team-name {
-    font-family:'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
@@ -165,18 +154,14 @@ ul {
 }
 
 .section-team-par {
-    font-family:'Roboto', sans-serif;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
     line-height: 1.5;
-    color: #434455;
 }
 
 
 .portfolio-title-list {
-    font-family:'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
@@ -186,14 +171,12 @@ ul {
 }
 
 .portfolio-par{
-    font-family:'Roboto', sans-serif;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
     line-height: 1.5;
-    color: #434455;
 }
+
 
 .footer-main {
     background-color: #2E2F42;
